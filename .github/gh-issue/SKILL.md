@@ -1,9 +1,9 @@
 ---
-name: add-to-gh-issues
+name: gh-issue
 description: Turn any unit of work — a change, feature, user request, bug, agent finding, recommendation, architecture/decision, or infra/deploy/cleanup task — into discrete, individually-tracked GitHub issues, with evidence on closure. Use when the user wants to "track this in GitHub", "open an issue for X", "file issues for these items", "log this decision/recommendation", "track action items / findings", or "close out items with evidence" against a doc, a session's output, or an ad-hoc list, in any repo.
 ---
 
-# Add to GitHub Issues
+# GitHub Issue
 
 GitHub issues are this project's tracking ledger for **every** kind of work unit — not just audit
 findings. An item can be a change, a new feature / functional requirement, a user request, a bug, an
